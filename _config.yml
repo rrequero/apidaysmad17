@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.apiaddicts.org/"
 
 # Head
-metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, meetup, developers, madrid"
+metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, .NET, meetup, developers, Madrid"
 twitterAccount: "@apiaddicts"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -69,7 +69,7 @@ aboutTitle: "API Addicts Day"
 aboutBlock:
  - {title: "Conferencias", image: "conference.jpg", text: "Charlas diversas, por expertos de las APIs de empresas de todo el mundo!" }
  - {title: "Mesa Redonda", image: "workshop.jpg", text: "Debate, opina, pregunta. Mesa redonda con las APIs como parte del negocio" }
- - {title: "TallerES", image: "hackathon.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
+ - {title: "Talleres", image: "hackathon.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+title:  "Call for Papers cerrado"
+date:   2017-09-10 19:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+El mayor evento de APIs, API Addicts Day, se celebra el día 21 de octubre de 2017 en Google campus, en la ciudad de Madrid.
+Hoy, día 10 de Septiembre, dejamos de aceptar propuestas (__CFP__) y vamos a confirmar la lista de ponentes y la agenda.
 
-#### Presenters – who should speak at the DevFest Conference?
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
+#### Asisten
+
+* Programadores
+* Empresas de software
 * research institutions with Google relevant activities
 * companies, organisations and individuals using Google technologies
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+
 
 #### Themes and topics – what do we expect?
 Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
@@ -56,12 +58,5 @@ __General__
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
-
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
-
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+##### ¿Alguna pregunta?
+¡Déjanos tus comentarios y te responderemos con mucho gusto! 😊

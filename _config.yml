@@ -16,8 +16,9 @@ description: "Tu evento de APIs con un enfoque 360"
 baseurl: "/apiaddictsday17"
 url: "https://apiaddicts.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-60085396-6"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "apiaddicts.github.io/apiaddictsday17/"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info

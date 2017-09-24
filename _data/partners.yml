@@ -1,7 +1,7 @@
 - 
   group: ""
   elements: 
-    - {name: "Cloudappi", description: "Cloudappi - Transformación digital a traves de las APIs", link: "https://cloudappi.net/", imageUrl: "cloudappi.png"}
+    - {name: "Cloudappi", description: "Cloudappi - Transformación digital a través de las APIs", link: "https://cloudappi.net/", imageUrl: "cloudappi.png"}
     #- {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 #-
 #  group: "With support of"

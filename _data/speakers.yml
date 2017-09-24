@@ -1,67 +1,141 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Álvaro"
+  surname: "Nuñez-Romero"
+  company: "Eleven Paths"
+  title: "Limited Secrets: Control parental de Apps con la API de Latch"
+  bio: "Ingeniero de Imagen y Sonido. Máster en Seguridad de la Información. Instructor en hackersClub.
+        Actualmente trabajando en el laboratorio de la Unidad de Ciberseguridad de Telefónica, Eleven Paths.
+        Entusiasta de la tecnología y la seguridad informática."
+  thumbnailUrl: AlvaroNuñez.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/toolsprods"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anunezrc/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Arturo"
+  surname: "Gonzalez Mac Dowell"
+  company: "Eurobits"
+  title: "President & CEO at Eurobits"
+  bio: 'All my professional career has pivoted around the introduction to market of high-tech products and services for the financial sector.
+  One of the achievements I am most proud of is the first Account Information Service in Europe which we have been offering through Eurobits since 2.004.'
+  thumbnailUrl: ArturoMacDowell.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arturo-gonzalez-mac-dowell-b1a302/"}
+
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Isabelle"
+  surname: "Mauny"
+  company: "42Crunch"
+  title: "CTO at 42Crunch"
+  bio: "I am working for 42Crunch, a company providing an API security platform, putting security at the heart of APIs lifecycle: development, testing, deployment. I manage product management, product marketing as well as analysts relationship. Previously, I was working for WSO2 as VP of Product Strategy and Technical Evangelist for WSO2's open source platform, mainly in Europe."
+  thumbnailUrl: IsabelleMauny.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    #- {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/isamauny/"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  name: "Felipe"
+  surname: "Polo Ruiz"
+  company: "Guide Smits"
+  title: "Full Stack engineer"
+  bio: "Microservices advocate, TDD practitioner, full stack engineer and continuous learner. Digital transformer and MD at GuideSmiths Spain"
+  thumbnailUrl: FelipePolo.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "twitter", link: "http://twitter.com/feliun"}
+- 
+  id: 7
+  name: "Raúl"
+  surname: "Requero"
+  company: "Vizzuality"
+  title: "Full Stack Architect"
+  bio: " really like the design and development of web architectures, for backend and frontend. During all my years of experience I have been full stack and I have learned and continue to learn more about architecture design and application development.
+        One of my passions is encouraging the developer community to adopt best practices and standards, and as such, I enjoy teaching my teammates new technologies and frameworks."
+  thumbnailUrl: RaulRequero.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/requerogarciaraul/"}
+-
+  id: 8
+  name: "Andres Leonardo"
+  surname: "Martinez Ortiz"
+  company: "Google"
+  title: "Developer Program Manager at Google"
+  bio: "With wide experience in R&D+i at Telecommunication and Software Engineering sector, I have been always working developing, transferring and promoting innovative technologies. Also I have been founder in a couple of non fully successful startups. Starting on April 2013, I am glad to be part of Developer Relations team at Google."
+  thumbnailUrl: Almo.png
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aleonar"}
+    - {name: "twitter", link: "http://twitter.com/davilagrau"}
+-
+  id: 9
+  name: "Enrique"
+  surname: "García Navalón"
+  company: "SyncRTC"
+  title: "CTO en SyncRTC"
+  bio: "Lorem ipsum "
+  thumbnailUrl: GarciaNavalon.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
+    - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+
+-
+  id: 10
+  name: "Fernando"
+  surname: "Valverde Sañudo"
+  company: "Bloombees"
+  title: "Data Engineer, Data Architect"
+  bio: "Lorem ipsum "
   thumbnailUrl: RomanMazur.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
+    - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+
+-
+  id: 10
+  name: "Victor"
+  surname: "Cuervo"
+  company: "Bloombees"
+  title: "Data Engineer, Data Architect"
+  bio: "Lorem ipsum "
+  thumbnailUrl: RomanMazur.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
+    - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+
+-
+  id: 10
+  name: "Jaime"
+  surname: "Martín"
+  company: "IBM"
+  title: "Data Engineer, Data Architect"
+  bio: "Lorem ipsum "
+  thumbnailUrl: RomanMazur.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
+    - {name: "twitter", link: "http://twitter.com/garcianavalon"}

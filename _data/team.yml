@@ -7,7 +7,7 @@
   team: true
   #  ribbon:
   #    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
+  social:
     #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "https://twitter.com/baumannzone"}
     - {name: "github", link: "https://github.com/baumannzone"}

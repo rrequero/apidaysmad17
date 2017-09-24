@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.apiaddicts.org/"
 
 # Head
-metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, meetup, developers, madrid"
+metaKeywords: "evento, api, apiaddicts, cloudappi, REST, node, .NET, meetup, developers, Madrid"
 twitterAccount: "@apiaddicts"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -56,20 +56,21 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "API Addicts Day <typeout> 2017"
+heroTitle: "API Days Madrid <typeout> 2017"
 eventDate: "11 Octubre de 2017"
-typeoutTextValues: '"", "(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
-typeoutFallback: "Definición"
+typeoutTextValues: '"(Definición)", "(Seguridad)", "(Negocio)", "(Desarrollo)"'
+typeoutFallback: "(Definición)"
 heroButtons:
  #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
- - {permalink: "/#tickets", text: "Comprar entradas"}
+ #- {permalink: "/#tickets", text: "Comprar entradas"}
+ - {permalink: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Comprar entradas"}
 
 # About Block
-aboutTitle: "API Addicts Day"
+aboutTitle: "API Days Madrid"
 aboutBlock:
  - {title: "Conferencias", image: "conference.jpg", text: "Charlas diversas, por expertos de las APIs de empresas de todo el mundo!" }
  - {title: "Mesa Redonda", image: "workshop.jpg", text: "Debate, opina, pregunta. Mesa redonda con las APIs como parte del negocio" }
- - {title: "TallerES", image: "hackathon.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
+ - {title: "Talleres", image: "hackathon.jpg", text: "¡Trae tu portatil y empieza a picar código! Talleres presenciales con expertos en la industria" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -80,11 +81,11 @@ statisticBlock:
  - {count: "2", specialCharacter: "", info: "tracks simultáneos", detail: "Taller / Charla"}
 
 # Latest News Block
-latestNewsTitle: "Últimas Noticias"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 6
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Ponentes"
 rockstarSpeakersButtonText: "Ver todos"
 

@@ -19,7 +19,6 @@
   description: "La tecnología Latch te permite implementar un pestillo de seguridad en tus servicios online. El “secreto” de una aplicación de Latch es una parte fundamental ya que es una clave que nos permite firmar las peticiones que se realizan a la API. Con la llegada de los limited secrets se pueden evitar escenarios en donde nuestro secreto principal puede verse comprometido por un tercero."
   subtype: presentation
   speakers: [3]
-  language: es
   complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -30,11 +29,97 @@
   description: "PSD2"
   subtype: keynote
   speakers: [4]
-  language: es
   complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
+-
+  id: 005
+  title: "Seguridad en las APIs"
+  description: "En esta charla se explica cómo, usando patrones REST, acabamos implementando una idea similar a GraphQL, la cual acabamos adoptando para algunos casos."
+  subtype: workshop
+  speakers: [5]
+  complexity: "Expert"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 006
+  title: "Un viaje hacia GraphQL"
+  description: "Seguridad en las APIs"
+  subtype: workshop
+  speakers: [6]
+  complexity: "Intermediate"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 007
+  title: "Mashups API"
+  description: "Trataremos de exponer los distintos retos y decisiones tomadas en el desarrollo de una API pública cuyo objetivo es agregar múltiples fuentes de datos (NASA, Google, ArcGIS, Carto, etc) y poderlas consumir con un lenguaje común. Además veremos también las decisiones que nos llevaron a implementar una API RESTful basada en microservicios"
+  subtype: presentation
+  speakers: [7]
+  complexity: "Intermediate"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 008
+  title: "Pausa comida"
+  place: "Dónde quieras"
+  service: true
+  description: "El mejor momento para hacer networking con los asistentes"
+
+-
+  id: 009
+  title: "Machine Intelligence, Artificial Learning"
+  description: "Use case for online content curating with Google Machine Learning APIs: Cloud Vision and Prediction API."
+  subtype: presentation
+  speakers: [8]
+  complexity: "Intermediate"
+  presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 010
+  title: "Asynchronous APIs: robust APIs for the post-REST world"
+  description: "La Open API Initiative es el esfuerzo de la industria por estandarizar la descripción de APIs REST, pero cada vez demandamos más de nuestras APIs, sobretodo aquellas orientadas a communicación inter-procesos en nuestro backend (multiples transportes, asíncronia, subscripciones, etc.). El crecimiento de estas nuevas APIs post-REST es una oportunidad para actualizar nuestro kit de herramientas y resolver problemas de nuevas formas. En esta charla explicaremos el cambio de paradigma, por qué REST no es suficiente y que es AsyncAPI, la iniciativa hermana de Open API para este nuevo mundo."
+  subtype: presentation
+  speakers: [9]
+  complexity: "Intermediate"
+  # presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 011
+  title: "eCommerce & APIs"
+  description: "Cómo se utilizan las APIs en el mundo del ecommerce, integrando herramientas de Marketing,
+  o de Analítica Web y otras herramientas más avanzadas para mejorar tanto el soporte al cliente, la integración entre plataformas y como consecuencia la experiencia de comprar para el usuario."
+  subtype: presentation
+  speakers: [10]
+  complexity: "Intermediate"
+  # presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 012
+  title: "SegurCaixa: Un ejemplo de APIs en las grandes empresas"
+  description: "Lorem.."
+  subtype: presentation
+  speakers: [11]
+  complexity: "Intermediate"
+  # presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 013
+  title: "Gobierno de Apis con IBM"
+  description: "Lorem"
+  subtype: presentation
+  speakers: [12, 15]
+  complexity: "Intermediate"
+  # presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 
 

@@ -80,6 +80,7 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/aleonar"}
     - {name: "twitter", link: "http://twitter.com/davilagrau"}
+    - {name: "github", link: "https://github.com/almo"}
 -
   id: 9
   name: "Enrique"

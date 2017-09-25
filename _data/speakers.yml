@@ -128,17 +128,23 @@
 -
   id: 12
   name: "Jaime"
-  surname: "Martín"
+  surname: "Martín Talavera"
   company: "IBM"
-  title: "Data Engineer, Data Architect"
-  bio: "Lorem ipsum "
-  thumbnailUrl: user.png
+  title: "Cloud Tech-sales Consultant"
+  bio: "Jaime works with financial institutions, state and government agencies and departments, insurance companies,
+       utility companies and retailers helping them on their digital transformation journey in topics such as mobile integration,
+       API Management, B2B integration, identity and access management solutions. This includes over 8 years experience with DataPower.
+       He has a deep understanding in Web Services, SOA, ESB, API, REST, Microservices and cyber security. <br>
+       Jaime has authored many IBM developerWorks articles and co-authored an IBM Redbook. <br>
+       He has previously worked on emerging technologies initiatives based on Internet of Things (IoT). <br>
+       Jaime has a professional background in software development. He holds a Master's Degree of Computer Systems engineering from the Comillas Pontifical University (Madrid)."
+  thumbnailUrl: JaimeMartin.jpg
   rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+   #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
-    - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/jaimemt"}
+
 
 -
   id: 13
@@ -197,20 +203,19 @@
 
 -
   id: 16
-  name: "Julio Iván"
+  name: "Iván"
   surname: "Alegre Torrejon"
   company: "Seedtag"
-  title: "Ninja innovative developer at Seedtag"
-  bio: "Telecommunications Engineer and Technical Engineer in Computer Science by Universidad Rey Juan Carlos.
-        Working mostly on the web, both Frontend and Backend.
-        In the Frontend world, I've designed and developed web applications in AngularJS, Sencha Touch and jQuery Mobile making use of jQuery and the native HTML5 FileSystem API, File API and Drag & Drop and Media Capture functionalities.
-        In Backend, I've been working with the design and development of Django (Python) backends using templates, models, databases and deployment on Apache servers. I've also worked with Apache Tomcat (Java) servers with Jersey and eXist (XML) or mongoDB (JSON) databases."
+  title: "Backend engineer at seedtag"
+  bio: "Engineer who started in the dark world of Frontend in every shape to end in the bright space of Backend.<br>
+        Lover of the simple, the powerful, of the well done API REST interfaces, OAuth, JS, TS and other little things that make my life easier."
   thumbnailUrl: IvanAlegre.jpg
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "twitter", link: "https://twitter.com/alegretorrejon"}
+    - {name: "github", link: "http://github.com/IvanAlegre/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/julio-iv%C3%A1n-alegre-torrej%C3%B3n-bb209a19/"}
 
 -
@@ -227,6 +232,43 @@
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
-    - {name: "site", link: "https://cloudappi.net"}
-    - {name: "twitter", link: "https://twitter.com/marantonio82"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
+    - {name: "twitter", link: "https://twitter.com/ricardovegas"}
+    - {name: "github", link: "https://github.com/rvegas"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ricardovegas/"}
+
+-
+  id: 18
+  name: "Adrián"
+  surname: "Díaz Cervera"
+  company: "ENCAMINA"
+  title: "Software Architect"
+  bio: "Adrián Díaz es Ingeniero de Informática por la Universidad Politécnica de Valencia, MVP de SharePoint Server desde Enero de 2014, MCSD de SharePoint 2013 y Web Aplication, MCPD de SharePoint 2010 y MCC 2012. <br>
+        Cofundador del grupo de usuarios de SharePoint de Levante LevaPoint. <br>
+        Lleva desarrollando con tecnologías Microsoft más de 10 años y desde hace 3 años está centrado en el desarrollo sobre SharePoint. <br>
+        Actualmente es arquitecto de soluciones SharePoint en ENCAMINA. <br>
+        Es colaborador de la revista CompartiMOSS y miembro de los grupos de usuarios de SharePoint de España (SUGES) y de la Comunidad de Office365. <br>
+        Además es participa activamente en eventos presenciales y online sobre SharePoint."
+  thumbnailUrl: AdrianDiaz.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/AdrianDiaz81"}
+    - {name: "site", link: "http://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adriandiazcervera/"}
+
+-
+  id: 19
+  name: "Sergio"
+  surname: "Hernández Mancebo"
+  company: "ENCAMINA"
+  title: "Principal Team Leader"
+  bio: "Ingeniero Técnico en Informática de Gestión por la universidad Complutense de Madrid con amplia experiencia en soluciones .Net,
+        y especializado especialmente en soluciones SharePoint desde el año 2011, en sus versiones 2007,2010 y 2013."
+  thumbnailUrl: SergioHernandez.png
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/shmancebo"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}

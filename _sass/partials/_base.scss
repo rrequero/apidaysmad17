@@ -54,4 +54,6 @@ $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
 $logos-sprite: $sprites-dir + "/logos.svg";
 
+$org-logo: "../img/sprites/organizer-logo.png";
+
 @import "modules/all";

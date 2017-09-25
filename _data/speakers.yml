@@ -76,7 +76,7 @@
   thumbnailUrl: Almo.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/aleonar"}
     - {name: "twitter", link: "http://twitter.com/davilagrau"}
@@ -102,7 +102,7 @@
   company: "Bloombees"
   title: "Data Engineer, Data Architect"
   bio: "Lorem ipsum "
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: user.png
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
@@ -111,13 +111,13 @@
     - {name: "twitter", link: "http://twitter.com/garcianavalon"}
 
 -
-  id: 10
+  id: 11
   name: "Victor"
   surname: "Cuervo"
   company: "Bloombees"
   title: "Data Engineer, Data Architect"
   bio: "Lorem ipsum "
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: user.png
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
@@ -126,16 +126,32 @@
     - {name: "twitter", link: "http://twitter.com/garcianavalon"}
 
 -
-  id: 10
+  id: 12
   name: "Jaime"
   surname: "Martín"
   company: "IBM"
   title: "Data Engineer, Data Architect"
   bio: "Lorem ipsum "
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: user.png
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
     - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+
+-
+  id: 13
+  name: "Carlos"
+  surname: "Azaustre"
+  company: "Chefly"
+  title: "CTO & Co-Founder at Chefly"
+  bio: "Training Specialist  👨🏻‍💻 #Firebase #JavaScript Full Stack Web developer on JavaScript ecosystem with tecnologies and frameworks such as Node.js, React, AngularJS, MongoDB, etc.., Over +7 years of experience at private companies, startups and as a freelancer. Currently working as CTO / Lead Developer at Chefly.
+  BSc in Telematics Engineering from Carlos III University of Madrid and studies for the MSc in Web Technologies from the University of Castile-La Mancha (Spain). Outside of formal education, I love self-learning thought MOOCs."
+  thumbnailUrl: CarlosAzaustre.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carlosazaustre"}
+    - {name: "twitter", link: "https://twitter.com/carlosazaustre"}

@@ -45,7 +45,7 @@ c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programación"}
+ - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  #- {permalink: "/logistics/", text: "Logistica"}
@@ -64,7 +64,7 @@ typeoutFallback: "(Definición)"
 heroButtons:
  #- {link: "https://goo.gl/forms/oUz11l4P0y5RtZrg2", text: "Enviar propuesta"}
  #- {permalink: "/#tickets", text: "Comprar entradas"}
- - {link: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Comprar entradas"}
+ - {link: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Obtener entradas"}
 
 # About Block
 aboutTitle: "API Days Madrid"
@@ -177,7 +177,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=apiaddicts", icon: "twitter"}
  - {link: "https://www.youtube.com/channel/UCepaRmZBCmbdU4QqNhSV5jQ/videos", icon: "youtube"}
  - {link: "https://facebook.com/apiaddicts", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -209,12 +209,12 @@ showSessions: true
 teamBlockTitle: "Sobre Nosotros"
 aboutUs: "En los últimos años, las APIs se han convertido en una forma revolucionaria de negocio para las empresas.
   El número de innovaciones tecnológicas y de industrias que están creciendo gracias al poder de las APIs es enorme.
-  Cada vez se abren más puertas de negocio gracias a las APIs.
-  Por eso que en API Addicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
-  formatos. Somos amantes y expertos de las APIs. Así se creó el grupo, por el interés de crear una comunidad abierta
-  donde todos puedan participar y aprender acerca de las APIs. Actualmente somos el mayor grupo hispano hablante a nivel nacional,
-  y pronto lo seremos a nivel mundial. Si no nos conoces, puedes saber más sobre nosotros en nuestra y ver lo que hacemos
-  en nuestro canal de youtube"
+  Cada vez se abren más puertas de negocio gracias a las APIs. <br>
+  Por eso en API Addicts nos gusta compartir con la comunidad nuestra experiencia. Nos gustan las APIs en todos sus
+  formatos. Somos amantes y expertos de las APIs. Así fue como creamos el grupo, por el interés de crear una comunidad abierta
+  en la cual todos puedan participar y aprender acerca de las APIs. <br>
+  Actualmente somos el mayor grupo hispano hablante a nivel nacional, y pronto lo seremos a nivel mundial.
+  Si no nos conoces, puedes saber más sobre nosotros en nuestra y ver lo que hacemosen nuestro canal de youtube"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

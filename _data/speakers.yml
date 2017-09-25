@@ -155,3 +155,42 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/carlosazaustre"}
     - {name: "twitter", link: "https://twitter.com/carlosazaustre"}
+
+-
+  id: 14
+  name: "Omar"
+  surname: "del Valle Rodríguez"
+  company: "Cloudappi"
+  title: "Consultant / Training / API addict"
+  bio: "Developer con más de 15 años de experiencia en el uso de Tecnologías Microsoft. MCT - Microsoft Certified Training. Actualmente enfocado en C# y adicto a términos tales como:
+    POO, clean code, refactoring, maintainability, patterns/anti-patterns, solid principles && agile methodology.
+    Microsoft certified professional en Web, Win-Form, WCF, ADO && Designing and Developing Enterprise Applications.
+    Trabajo con arquitecturas N-Tiers, DDD, CQRS o Micro-services. También con procesos de desarrollo como TDD, y metodologías ágiles orientadas principalmente al framework de Scrum."
+  thumbnailUrl: OmarDelValle.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/omardelvalle/"}
+    - {name: "twitter", link: "https://twitter.com/omarvr72"}
+
+-
+  id: 15
+  name: "Marco Antonio"
+  surname: "Sanz"
+  company: "Cloudappi"
+  title: "CEO at LeadGods, Founder at CloudAppi"
+  bio: "Más de 10 años de experiencia en el sector. He liderado proyectos tan importantes como el registro central de medidas cautelares y violencia doméstica del Ministerio de Justicia,
+  el departamento de explotación, receta XXI y incapacidad temporal de Indra dentro del Servicio Andaluz de Salud y el departamento de Apis internas del BBVA, entre las que se encontraba entre otros proyecto, el ticket digital. <br>
+        Soy fundador de API Addicts, uno de los grupos de charlas más importante sobre APIs. <br>
+        Hace +2 años, monté CloudAppi, una empresa de innovación ubicada en Getafe, especializada en Apis, web apps y desarrollar infraestructuras Cloud. <br>
+        En Octubre del 2016, cree la empresa LeadGods, una plataforma de venta de productos digitales que había transaccionado este año más de 2 millones de dólares. <br>
+        Con todo esto, todavía me queda tiempo para ser profesor de la universidad Francisco de Victoria en HCI."
+  thumbnailUrl: MarcoAntonio.png
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "site", link: "https://cloudappi.net"}
+    - {name: "twitter", link: "https://twitter.com/marantonio82"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}

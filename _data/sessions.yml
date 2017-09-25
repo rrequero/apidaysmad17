@@ -16,13 +16,26 @@
 -
   id: 003
   title: "Limited Secrets: Control parental de Apps con la API de Latch"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  description: "La tecnología Latch te permite implementar un pestillo de seguridad en tus servicios online. El “secreto” de una aplicación de Latch es una parte fundamental ya que es una clave que nos permite firmar las peticiones que se realizan a la API. Con la llegada de los limited secrets se pueden evitar escenarios en donde nuestro secreto principal puede verse comprometido por un tercero."
   subtype: presentation
   speakers: [3]
   language: es
   complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 004
+  title: "PSD2"
+  description: "PSD2"
+  subtype: keynote
+  speakers: [4]
+  language: es
+  complexity: "Expert"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+
 
 
 

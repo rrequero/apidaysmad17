@@ -128,17 +128,23 @@
 -
   id: 12
   name: "Jaime"
-  surname: "Martín"
+  surname: "Martín Talavera"
   company: "IBM"
-  title: "Data Engineer, Data Architect"
-  bio: "Lorem ipsum "
-  thumbnailUrl: user.png
+  title: "Cloud Tech-sales Consultant"
+  bio: "Jaime works with financial institutions, state and government agencies and departments, insurance companies,
+       utility companies and retailers helping them on their digital transformation journey in topics such as mobile integration,
+       API Management, B2B integration, identity and access management solutions. This includes over 8 years experience with DataPower.
+       He has a deep understanding in Web Services, SOA, ESB, API, REST, Microservices and cyber security. <br>
+       Jaime has authored many IBM developerWorks articles and co-authored an IBM Redbook. <br>
+       He has previously worked on emerging technologies initiatives based on Internet of Things (IoT). <br>
+       Jaime has a professional background in software development. He holds a Master's Degree of Computer Systems engineering from the Comillas Pontifical University (Madrid)."
+  thumbnailUrl: JaimeMartin.jpg
   rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+   #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
-    - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/jaimemt"}
+
 
 -
   id: 13
@@ -197,7 +203,7 @@
 
 -
   id: 16
-  name: "J. Iván"
+  name: "Iván"
   surname: "Alegre Torrejon"
   company: "Seedtag"
   title: "Backend engineer at seedtag"
@@ -257,13 +263,12 @@
   surname: "Hernández Mancebo"
   company: "ENCAMINA"
   title: "Principal Team Leader"
-  bio: "ngeniero Técnico en Informática de Gestión por la universidad Complutense de Madrid con amplia experiencia en soluciones .Net,
+  bio: "Ingeniero Técnico en Informática de Gestión por la universidad Complutense de Madrid con amplia experiencia en soluciones .Net,
         y especializado especialmente en soluciones SharePoint desde el año 2011, en sus versiones 2007,2010 y 2013."
   thumbnailUrl: SergioHernandez.png
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
-    - {name: "twitter", link: "https://twitter.com/AdrianDiaz81"}
-    - {name: "site", link: "http://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/"}
+    - {name: "twitter", link: "https://twitter.com/shmancebo"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}

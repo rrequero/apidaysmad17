@@ -1,3 +1,20 @@
+# complexity: "Beginner" "Intermediate" "Expert"
+
+-
+  id: 001
+  title: "Registro y Entrada"
+  description: "No llegues tarde si no te quieres perder nada. Registro y entrada"
+  subtype: workshop
+  service: true
+  language: es
+
+
+
+
+
+
+
+
 -
   id: 307
   title: "Coffee Break"

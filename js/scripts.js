@@ -19,40 +19,42 @@
         if ($(window).height() < 512) {
             $('#bottom-navlinks').removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
         }
-        if ($(window).scrollTop() >= 100) {
-            $('#top-header').addClass('after-scroll');
-            $('#logo-header .logo').removeClass('logo-light').addClass('logo-dark');
-        }
+
+      if ( $( window ).scrollTop() >= 100 ) {
+        $( '#top-header' ).addClass( 'after-scroll' );
+        $( '#logo-header' ).find( '.logo' ).removeClass( 'logo-light' ).addClass( 'logo-dark' );
+      }
 
         $(window).scroll(function() {
-            var scroll = $(this).scrollTop();
-            var header = $('#top-header');
-            var logo = $('#logo-header .logo');
-            var buyButton = $('.right-nav-button');
-            var topOffset = header.height() + $('.track-header').height();
+          var scroll = $( this ).scrollTop();
+          var header = $( '#top-header' );
+          var logo = $( '#logo-header .logo' );
+          var buyButton = $( '.right-nav-button' );
+          var topOffset = header.height() + $( '.track-header' ).height();
 
-            if (scroll >= 100) {
-                header.addClass('after-scroll');
-                logo.removeClass('logo-light').addClass('logo-dark');
-            } else {
-                header.removeClass('after-scroll');
-                logo.removeClass('logo-dark').addClass('logo-light');
+          if ( scroll >= 100 ) {
+            header.addClass( 'after-scroll' );
+            logo.removeClass( 'logo-light' ).addClass( 'logo-dark' );
+          } else {
+            //header.removeClass( 'after-scroll' );
+            logo.removeClass( 'logo-dark' ).addClass( 'logo-light' );
+          }
+
+          if ( scroll >= $( '.top-section' ).height() && $( window ).width() > 767 ) {
+            buyButton.removeClass( 'right-nav-button-hidden' );
+          } else if ( scroll < $( '.top-section' ).height() && $( window ).width() > 767 ) {
+            buyButton.addClass( 'right-nav-button-hidden' );
+          }
+
+          // Schedule stiky table head
+          $( '.slot' ).each( function () {
+            var currentPosition = $( this ).offset().top - scroll;
+            var offsetActivator = topOffset + $( this ).find( '.slot-title' ).height();
+            if ( currentPosition <= offsetActivator && currentPosition >= 0 ) {
+              $( '.track-header.sticky' ).find( '.slot-detail' ).html( $( this ).data( 'slotDetail' ) );
             }
-
-            if (scroll >= $('.top-section').height() && $(window).width() > 767) {
-                buyButton.removeClass('right-nav-button-hidden');
-            } else if (scroll < $('.top-section').height() && $(window).width() > 767){
-                buyButton.addClass('right-nav-button-hidden');
-            }
-
-            $('.slot').each(function() {
-                var currentPosition = $(this).offset().top - scroll;
-                var offsetActivator = topOffset + $(this).find('.slot-title').height();
-                if (currentPosition <= offsetActivator && currentPosition >= 0) {
-                    $('.track-header.sticky').find('.slot-detail').html($(this).data('slotDetail'));
-                }
-            });
-        });
+          } );
+        } );
 
         $(window).resize(function() {
             if ($(window).width() > 1500) {
@@ -103,7 +105,7 @@
             if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
                 var hash = window.location.hash;
                 $(hash).click();
-            } 
+            }
         });
 
         $(function() {
@@ -483,7 +485,7 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
-            
+
             function calcRouteFromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {

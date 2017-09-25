@@ -194,3 +194,39 @@
     - {name: "site", link: "https://cloudappi.net"}
     - {name: "twitter", link: "https://twitter.com/marantonio82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}
+
+-
+  id: 16
+  name: "Julio Iván"
+  surname: "Alegre Torrejon"
+  company: "Seedtag"
+  title: "Ninja innovative developer at Seedtag"
+  bio: "Telecommunications Engineer and Technical Engineer in Computer Science by Universidad Rey Juan Carlos.
+        Working mostly on the web, both Frontend and Backend.
+        In the Frontend world, I've designed and developed web applications in AngularJS, Sencha Touch and jQuery Mobile making use of jQuery and the native HTML5 FileSystem API, File API and Drag & Drop and Media Capture functionalities.
+        In Backend, I've been working with the design and development of Django (Python) backends using templates, models, databases and deployment on Apache servers. I've also worked with Apache Tomcat (Java) servers with Jersey and eXist (XML) or mongoDB (JSON) databases."
+  thumbnailUrl: IvanAlegre.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/alegretorrejon"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/julio-iv%C3%A1n-alegre-torrej%C3%B3n-bb209a19/"}
+
+-
+  id: 17
+  name: "Ricardo"
+  surname: "Vegas García"
+  company: "KUSANAGI"
+  title: "Head of Engineering"
+  bio: "Ingeniero de Software, Master en Ingeniería Web. Especialista en microservicios y sistemas de alta disponibilidad,
+       escalabilidad y desempeño. Experto en diferentes lenguajes de programación, metodologías de desarrollo y estrategias de trabajo. Agilidad en la optimización de tareas a corto plazo con la vista puesta en objetivos técnicos de largo plazo. Gran habilidad para multitareas, trabajo bajo presión con actitud orientada hacia el aprendizaje. Entusiasta de nuevas tecnologías y métodos de trabajo.
+       Mucha experiencia en proyectos de big data, CRM y manejo de personal."
+  thumbnailUrl: RicardoVegas.jpg
+  rockstar: true
+  ribbon:
+    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "site", link: "https://cloudappi.net"}
+    - {name: "twitter", link: "https://twitter.com/marantonio82"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marco-antonio-sanz-molina-prados-09733518/"}

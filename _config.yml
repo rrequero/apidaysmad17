@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "API Addicts Day 2017"
+title: "API Days Madrid 2017"
 email: "jorge.baumann@apiaddicts.org"
 description: "Tu evento de APIs con un enfoque 360"
-baseurl: "/apiadaysmad17"
+baseurl: "/apidaysmad17"
 url: "https://apiaddicts.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-60085396-6"

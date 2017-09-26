@@ -47,7 +47,6 @@
   title: "Full Stack engineer"
   bio: "Microservices advocate, TDD practitioner, full stack engineer and continuous learner. Digital transformer and MD at GuideSmiths Spain"
   thumbnailUrl: FelipePolo.jpg
-  rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
@@ -104,7 +103,6 @@
   title: "Data Engineer, Data Architect"
   bio: "Lorem ipsum "
   thumbnailUrl: user.png
-  rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:

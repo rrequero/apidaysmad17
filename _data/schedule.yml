@@ -70,35 +70,56 @@
       sessionIds: [013]
     }
 
-
-
-
-
-
-
 -
-  date: "2017-10-11"
-  dateReadable: "11 de Octubre (Sala Talleres)"
+  date: "2014-10-25"
+  dateReadable: "11 de Octubre (Talleres)"
   tracks:
     - {title: "Talleres", color: "#03a9f4"}
   timeslots:
     - {
-        startTime: "11:00",
+        startTime: "10:30",
         endTime: "12:00",
-        sessionIds: [404, 002]
+        sessionIds: [014]
     }
     - {
         startTime: "12:00",
         endTime: "13:00",
-        sessionIds: [002, 003]
+        sessionIds: [015]
     }
     - {
         startTime: "13:00",
-        endTime: "14:00",
-        sessionIds: [003]
+        endTime: "14:45",
+        sessionIds: [016]
     }
     - {
-        startTime: "14:00",
-        endTime: "15:00",
-        sessionIds: [503]
+        startTime: "14:45",
+        endTime: "16:00",
+        sessionIds: [008]
+      }
+    - {
+        startTime: "16:00",
+        endTime: "17:45",
+        sessionIds: [017]
     }
+    - {
+          startTime: "17:45",
+          endTime: "19:30",
+          sessionIds: [018]
+      }
+
+#-
+#  date: "2017-10-12"
+#  dateReadable: "11 de Octubre (Sala Talleres)"
+#  tracks:
+#    - {title: "Talleres", color: "#03a9f4"}
+#  timeslots:
+#    - {
+#        startTime: "10:30",
+#        endTime: "12:00",
+#        sessionIds: [14]
+#    }
+#    - {
+#        startTime: "12:00",
+#        endTime: "13:00",
+#        sessionIds: [15]
+#    }

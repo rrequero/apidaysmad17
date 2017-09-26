@@ -98,8 +98,6 @@
   subtype: presentation
   speakers: [10]
   complexity: "Intermediate"
-  # presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 012
@@ -108,8 +106,6 @@
   subtype: presentation
   speakers: [11]
   complexity: "Intermediate"
-  # presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: 013
@@ -118,8 +114,56 @@
   subtype: presentation
   speakers: [12, 15]
   complexity: "Intermediate"
-  # presentation: "https://www.slideshare.net/aleonar/curating-online-content-with-google-ml-api"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+## Talleres
+-
+  id: 014
+  title: "Securiza tu REST API en Node.js con JWT"
+  description: "En el taller veremos como crear una sencilla API REST con Node.js y Express y le añadiremos seguridad de tal manera que solo puedan acceder a los endpoints a través de un token"
+  subtype: workshop
+  speakers: [13]
+  complexity: "Intermediate"
+
+-
+  id: 015
+  title: "Open API"
+  description: "Lorem ipsummm"
+  subtype: workshop
+  speakers: [14]
+  complexity: "Intermediate"
+
+-
+  id: 016
+  title: "Desarrolla tu API .net core"
+  description: "ASP.NET Core nos facilita la implementación de API para cualquier plataforma. <br>
+    En esta sesión veremos cómo crear APIs Web soportando distintos formatos y metadatos.
+    También veremos cómo podemos crear aplicaciones SPA con ASP.NET Core como backend."
+  subtype: workshop
+  speakers: [18, 19]
+  complexity: "Intermediate"
+
+-
+  id: 017
+  title: "Servicios para Node.js en Typescript con APIs autodocumentadas con tsoa"
+  description: "Uno de los mayores problemas que tienen las infraestructuras basadas en microservicios es la documentación de la API (o la falta de ella) de cada uno de los servicios.
+                Escribir un servicio Node.js en Typescript tiene sus particularidades, pero compensa con un código potencialmente mucho más robusto sin perder la elasticidad de JS.<br>
+                En la charla se indicará qué hace falta para tener tu servicio escrito en Typescript usando tsoa para tener tus apis documentadas con swagger y un explorador para interactuar con tus APIs."
+  subtype: workshop
+  speakers: [16]
+  complexity: "Intermediate"
+
+-
+  id: 018
+  title: "APIs minimalistas y poderosas con Python Flask Restless"
+  description: "Introduccion a Flask Restless para montar APIs minimalistas, con pocas lineas de codigo y con soporte completo de JSONAPI.<br>
+                Puntos a tocar:<br>
+                - Modelos con Flask SQLAlchemy <br>
+                - Preprocessors y postprocessors <br>
+                - Admin <br>
+                - JSONAPI <br>"
+  subtype: workshop
+  speakers: [17]
+  complexity: "Intermediate"
 
 
 

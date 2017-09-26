@@ -17,9 +17,9 @@ baseurl: "/apidaysmad17"
 url: "https://apiaddicts.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-60085396-6"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
 googleAnalyticsSiteUrl: "apiaddicts.github.io/apidaysmad17/"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsSiteUrl: "apiaddicts.github.io/apidaysmad17/"
+siteVerification: "8syDqXyPBXLeDN4OObptLtn2xyRCTBo-W9lLWhkoW_A"
 
 # Organizer Info
 organizerName: "API Addicts"
@@ -51,9 +51,9 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"

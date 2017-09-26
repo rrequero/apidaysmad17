@@ -80,6 +80,7 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/aleonar"}
     - {name: "twitter", link: "http://twitter.com/davilagrau"}
+    - {name: "github", link: "https://github.com/almo"}
 -
   id: 9
   name: "Enrique"
@@ -222,18 +223,19 @@
   id: 17
   name: "Ricardo"
   surname: "Vegas García"
-  company: "KUSANAGI"
-  title: "Head of Engineering"
-  bio: "Ingeniero de Software, Master en Ingeniería Web. Especialista en microservicios y sistemas de alta disponibilidad,
-       escalabilidad y desempeño. Experto en diferentes lenguajes de programación, metodologías de desarrollo y estrategias de trabajo. Agilidad en la optimización de tareas a corto plazo con la vista puesta en objetivos técnicos de largo plazo. Gran habilidad para multitareas, trabajo bajo presión con actitud orientada hacia el aprendizaje. Entusiasta de nuevas tecnologías y métodos de trabajo.
-       Mucha experiencia en proyectos de big data, CRM y manejo de personal."
+  company: "Beeva"
+  title: "Arquitecto Técnico, experto en APIs."
+  bio: "Máster en Ingeniería web, especializado en diseño, implementación e implantación de APIs REST.
+        Experto en arquitectura de software con un interés muy grande en nuevas tecnologías.
+        Ha desarrollado APIs para una muchos sectores, desde cloud hasta redes sociales, pasando por banca y microservicios.
+        Lenguaje principal Python3."
   thumbnailUrl: RicardoVegas.jpg
   rockstar: true
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
+    - {name: "site", link: "http://ricardo.vegas/"}
     - {name: "twitter", link: "https://twitter.com/ricardovegas"}
-    - {name: "github", link: "https://github.com/rvegas"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ricardovegas/"}
 
 -

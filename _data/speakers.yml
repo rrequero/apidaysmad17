@@ -75,7 +75,6 @@
   thumbnailUrl: Almo.png
   rockstar: true
   ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/aleonar"}
     - {name: "twitter", link: "http://twitter.com/davilagrau"}

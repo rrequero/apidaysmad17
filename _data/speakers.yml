@@ -58,8 +58,9 @@
   surname: "Requero"
   company: "Vizzuality"
   title: "Full Stack Architect"
-  bio: " really like the design and development of web architectures, for backend and frontend. During all my years of experience I have been full stack and I have learned and continue to learn more about architecture design and application development.
-        One of my passions is encouraging the developer community to adopt best practices and standards, and as such, I enjoy teaching my teammates new technologies and frameworks."
+  bio: "Actualmente trabajo como arquitecto full-stack en Vizzuality diseñando e implementando una API de microservicios.
+        Además soy formador de distintas tecnologías (AngularJS, React, Node, etc) y cofundador del grupo de Meetup OWASP Madrid.
+        En resumen, me encanta aprender cosas nuevas y disfruto compartiendo lo que se."
   thumbnailUrl: RaulRequero.jpg
   rockstar: true
   social:

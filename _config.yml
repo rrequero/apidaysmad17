@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://goo.gl/forms/2kL5BflyoS4GBYXo1"
-#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:jorge.baumann@apiaddicts.org?subject=Patrocinar%20API%20Days%20Madrid"
 
 
 # Navigation
@@ -51,9 +51,9 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistica"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Obtener entradas"}
 rightNavigationButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://payments.leadgods.com/payment/apiaddicts/S59c7f35a961c8", text: "Obtener entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"

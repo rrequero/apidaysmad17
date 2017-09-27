@@ -69,13 +69,18 @@
   surname: "Martinez Ortiz"
   company: "Google"
   title: "Developer Program Manager at Google"
-  bio: "With wide experience in R&D+i at Telecommunication and Software Engineering sector, I have been always working developing, transferring and promoting innovative technologies. Also I have been founder in a couple of non fully successful startups. Starting on April 2013, I am glad to be part of Developer Relations team at Google."
+  bio: "Andres L. Martinez-Ortiz a.k.a almo is Head of Developer Program in Google's Engineering team for several countries in Europe.
+        He is focused on driving the success of Google's developer products and the open web by creating a thriving ecosystem of 3rd party
+        applications and businesses built on them. Closely with Product Management, Marketing, PR, Business Development, and other, he works
+        with and supports developer communities, initiating activities that meet the needs of the innovation ecosystem. In addition, he meets
+        with developers and partners in large companies, startups, universities and enterprises, promoting Open standards and Google technologies.
+        He is also member of IEEE, ACM, Linux Foundation and Computer Society."
   thumbnailUrl: Almo.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/aleonar"}
     - {name: "twitter", link: "http://twitter.com/davilagrau"}
-    - {name: "github", link: "https://github.com/almo"}
+    #- {name: "github", link: "https://github.com/almo"}
 -
   id: 9
   name: "Enrique"
@@ -94,12 +99,16 @@
   name: "Fernando"
   surname: "Valverde Sañudo"
   company: "Bloombees"
-  title: "Data Engineer, Data Architect"
-  bio: "Lorem ipsum "
-  thumbnailUrl: user.png
+  title: "Back-end - API Team Leader in Bloombees"
+  bio: "Fernando has been in software development for more than 10 years, mainly focused on Web Application environments
+        and specialized in the Back-end world (API, payment methods, data engineering and behavioral marketing).
+        After working for companies in different sectors (technology & software development companies, product oriented companies and marketing agencies)
+        he acquired 360º knowledge on how to approach the best solution for a project to bring together technical requirements,
+        business needs and of course, always keeping in mind the most valuable, the end user."
+  thumbnailUrl: FernandoValverde.jpg
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/garcianavalon"}
-    - {name: "twitter", link: "http://twitter.com/garcianavalon"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernandovalverde/"}
+    - {name: "twitter", link: "https://twitter.com/FernandoVS_"}
 
 -
   id: 11

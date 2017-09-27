@@ -7,18 +7,8 @@ isStaticPost: false
 El mayor evento de APIs, API Addicts Day, se celebra el día 21 de octubre de 2017 en Google campus, en la ciudad de Madrid.
 Hoy, día 10 de Septiembre, dejamos de aceptar propuestas (__CFP__) y vamos a confirmar la lista de ponentes y la agenda.
 
-
-#### Asisten
-
-* Programadores
-* Empresas de software
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
-
-
-
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+#### Conferencias y talleres. ¿Qué temas se van a tratar?
+Hemos creado una selección de charlas y que nos ha parecido
 
 ##### Android
 

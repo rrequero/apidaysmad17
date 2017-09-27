@@ -15,6 +15,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/toolsprods"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/anunezrc/"}
+
 - 
   id: 4
   name: "Arturo"
@@ -80,7 +81,7 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/aleonar"}
     - {name: "twitter", link: "http://twitter.com/davilagrau"}
-    #- {name: "github", link: "https://github.com/almo"}
+
 -
   id: 9
   name: "Enrique"

@@ -8,44 +8,10 @@ El mayor evento de APIs, API Addicts Day, se celebra el día 21 de octubre de 20
 Hoy, día 10 de Septiembre, dejamos de aceptar propuestas (__CFP__) y vamos a confirmar la lista de ponentes y la agenda.
 
 #### Conferencias y talleres. ¿Qué temas se van a tratar?
-Hemos creado una selección de charlas y que nos ha parecido
+Hemos creado una selección de charlas de lo más variopinto..
 
-##### Android
-
-__Google I/O 2014__
-
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
-
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
-
-
-##### Cloud
-
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
-* Go (as a language for a Cloud Ready Apps)
+##### NodeJS
+##### Python
 
 
 ##### ¿Alguna pregunta?

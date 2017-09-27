@@ -255,3 +255,19 @@
   social:
     - {name: "twitter", link: "https://twitter.com/shmancebo"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
+
+
+-
+  id: 20
+  name: "Sergio"
+  surname: "Gordillo"
+  company: "Vizzuality"
+  title: "Engineer at Vizzuality"
+  bio: "Desarrollador con gran interés en áreas como Cloud Computing y Machine Learning."
+  thumbnailUrl: SergioGordillo.jpg
+  rockstar: true
+  social:
+    #- {name: "twitter", link: "https://twitter.com/shmancebo"}
+    #- {name: "linkedin", link: "https://www.linkedin.com/in/sergio-hernandez-mancebo-369b6560/"}
+
+

@@ -58,7 +58,7 @@
   title: "Mashups API"
   description: "Trataremos de exponer los distintos retos y decisiones tomadas en el desarrollo de una API pública cuyo objetivo es agregar múltiples fuentes de datos (NASA, Google, ArcGIS, Carto, etc) y poderlas consumir con un lenguaje común. Además veremos también las decisiones que nos llevaron a implementar una API RESTful basada en microservicios"
   subtype: presentation
-  speakers: [7]
+  speakers: [7, 20]
   complexity: "Intermediate"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
